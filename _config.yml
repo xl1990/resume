@@ -14,7 +14,7 @@ resume_name:                    "Xiao Liu"
 resume_title:                   "PHD Applicant Resume"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "zljabroad@outlook.com"
+resume_contact_email:           "xiaoliu1990@hotmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "+86-18817870825"
