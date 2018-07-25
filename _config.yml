@@ -1,6 +1,6 @@
 # Site settings
-title: "Lijun Zhang Resume"
-description: "A resume template for Lijun Zhang and GitHub Pages sites."
+title: "Xiao Liu Resume"
+description: "A resume template for Xiao Liu and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lijun Zhang"
+resume_name:                    "Xiao Liu"
 resume_title:                   "PHD Applicant Resume"
 
 # used for the contact button in _layouts/resume.html
