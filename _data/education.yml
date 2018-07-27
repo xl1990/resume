@@ -1,20 +1,20 @@
 # Degree
 - degree: M.Sc. in Software Engineering
   uni: Tongji University
-  year: 2016 &mdash; 2019
-  OverallG: 4.63/5.0  
-  AverageG: 90.8/100
+  year: 2015 &mdash; 2018
+  OverallG: 4.36/5.0  
+  AverageG: 87.5/100
   T: 96 
-  G: V153 + Q170 + AW3.5
-  Courses: Advanced Topics in Image Processing, Machine Learning Theories and Applications, Pattern Recognition, Software Modeling and Analysis, Distributed Computing, etc.
+  G: V146 + Q168
+  Courses: Advanced Topics in Image Processing, Machine Learning&#58; Theories and Applications, Pattern Recognition, Software Modeling and Analysis, Distributed Computing, State-of-the-art Software, etc.
   summary:
 
-- degree: B.Eng. in Software Engineering
+- degree: B.Ec. in International Trade
   uni: Tongji University
-  year: 2012 &mdash; 2016
+  year: 2009 &mdash; 2013
   detail:
-  OverallG: 4.78/5.0
-  AverageG: 92.8/100	
-  Rank: 1/160
-  Courses: Digital Image Processing, Computer Graphics, Computer Vision, Virtual Reality, 3D Animation and Post Production, User Interface Interaction, Operating Systems, etc.
+  OverallG: 3.62/5.0
+  AverageG: 81.2/100	
+  # Rank: 1/160
+  # Courses: Digital Image Processing, Computer Graphics, Computer Vision, Virtual Reality, 3D Animation and Post Production, User Interface Interaction, Operating Systems, etc.
   summary:
