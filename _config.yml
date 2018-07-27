@@ -17,10 +17,10 @@ resume_title:                   "PHD Applicant Resume"
 resume_contact_email:           "xiaoliu1990@hotmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "+86-18817870825"
+resume_contact_telephone:       "+86-15216717506"
 resume_contact_address:         "4800 Cao’an Road, Tongji University, Shanghai, China"
 
-resume_header_contact_info:     "4800 Cao’an Road, Tongji University, Shanghai, China • +86-18817870825 • zljabroad@outlook.com"
+resume_header_contact_info:     "4800 Cao’an Road, Tongji University, Shanghai, China • +86-15216717506 • xiaoliu1990@hotmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro1: "<p>I am a graduate student in School of Software Engneering, Tongji University, supervised by associate professor"
@@ -49,13 +49,13 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/zhanglijun95"
+  resume_github_url:            "https://github.com/johnsmith2012"
   # resume_twitter_url:           "http://twitter.com/jglovier"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://zhanglijun95.github.io/resume/"
+  resume_website_url:           "http://johnsmith2012.github.io/resume/"
   # resume_medium_url:            "zljabroad@outlook.com"
 resume_print_social_links:      true
 
