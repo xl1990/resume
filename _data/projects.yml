@@ -7,9 +7,9 @@
     - detail: Responsible for the algorithm development of multidimensional quality evaluation of images, including noise, blur, exposure, contrast and overall quality of images.
     - detail: Establish an image exposure database by code generation, and propose a method for image exposure assessment based on convolutional neural network.
 
-- project: CCF-Tencent Rhino Bird Fund Project
+- project: “Eat Just” Health Project
   role: Primary Developer
-  duration: Jan, 2016 &mdash; Oct, 2016
+  duration: May, 2016 &mdash; Oct, 2016
   description:
     - detail: Research on multi biometric fusion based on smart phone and cloud computing platform.
     - detail: Responsible for a part of this project which is face images illumination quality assessment, namely evaluating illumination quality for face images.
