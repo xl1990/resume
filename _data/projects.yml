@@ -1,16 +1,29 @@
 # Projects
-- project: Cooperative Project of Production, Learning and Research
-  role: Head of the Development Group & Primary Developer
-  duration: Oct, 2016 &mdash; Jan, 2018
+- project: HASCO Intelligent Car Challenge 2016
+  role: Primary Developer
+  duration: Jul, 2016 &mdash; Aug, 2016
   description:
-    - detail: Research on image quality evaluation for mobile camera.
-    - detail: Responsible for the algorithm development of multidimensional quality evaluation of images, including noise, blur, exposure, contrast and overall quality of images.
-    - detail: Establish an image exposure database by code generation, and propose a method for image exposure assessment based on convolutional neural network.
+    - detail: A competition on autonomous mobile cars with single camera.
+    - detail: Responsible for image processing, including recognition of traffic signs and lines.
+    - detail: Implemented camera distortion correction and image binaryzation algorithm.
+    - detail: Developed a traffic line and sign detection algorithm.
+    - detail: Developed a traffic sign classification algorithm based on decision tree.
 
 - project: “Eat Just” Health Project
   role: Primary Developer
   duration: May, 2016 &mdash; Oct, 2016
   description:
-    - detail: Research on multi biometric fusion based on smart phone and cloud computing platform.
-    - detail: Responsible for a part of this project which is face images illumination quality assessment, namely evaluating illumination quality for face images.
-    - detail: Establish a face database with diverse illumination situations by illumination transfer algorithm, and  propose a method for face images illumination quality assessment based on convolutional neural network.
+    - detail: Research on dish detection and classification for images.
+    - detail: Responsible for dish detection in images and establishment of the dataset for dish classification.
+    - detail: Established a image database with more than 1000 kinds of Chinese dishes.
+    - detail: Implemented a method for dish detection based on faster-RCNN.
+
+- project: Autonomous Mobile Robot
+  role: Head of the Development Group & Primary Developer
+  duration: Sep, 2015 &mdash; Jul, 2016
+  description:
+    - detail: Research on self-tracking wheeled mobile robot with multisensor.
+    - detail: Responsible for the algorithm development of navigation, localization and mapping.
+    - detail: Builded up a wheeled mobile robot and applyed ROS (robot operating system) on the robot.
+    - detail: Deployed Gmapping, AMCL(Adaptive Monte Carlo Localization) and move_base etc. modules in ROS.
+    - detail: Developed a visual SLAM program based on RGBD data.
