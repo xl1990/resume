@@ -1,4 +1,24 @@
 # Projects
+- project: “Eat Just” Health Project
+  role: Primary Developer
+  duration: May, 2016 &mdash; Oct, 2016
+  description:
+    - detail: Researched on detection and classification of dishes in images.
+    - detail: Responsible for collecting and labeling dish images and developing algorithm for dish detection.
+    - detail: Established a labeled image database of more than 2000 kinds of Chinese dishes and 
+    - detail: Developed a method for dish detection based on faster-RCNN.
+    - detail: A patent of this project is announced in 2018.
+
+- project: Autonomous Mobile Robot
+  role: Head of the Development Group & Primary Developer
+  duration: Sep, 2015 &mdash; Jul, 2016
+  description:
+    - detail: Researched on autonomous mobile robot driven by 2D SLAM and navigation.
+    - detail: Responsible for hardware and software deployment and algorithm development for mobile robot with 2D lidar sensor and RGB-D sensor.
+    - detail: Established a mobile robot capable of mapping, localization and self-navigation
+    - detail: Applied ROS (robot operating system) to the mobile robot and deployed Gmapping, AMCL (Adaptive Monte Carlo Localization) and a navigation module in ROS to drive the robot.
+    - detail: Developed a visual SLAM program based on RGB-D data.
+
 - project: HASCO Intelligent Car Challenge 2016
   role: Primary Developer
   duration: Jul, 2016 &mdash; Aug, 2016
@@ -8,22 +28,4 @@
     - detail: Implemented camera distortion correction and image binaryzation algorithm.
     - detail: Developed a traffic line and sign detection algorithm.
     - detail: Developed a traffic sign classification algorithm based on decision tree.
-
-- project: “Eat Just” Health Project
-  role: Primary Developer
-  duration: May, 2016 &mdash; Oct, 2016
-  description:
-    - detail: Research on dish detection and classification for images.
-    - detail: Responsible for dish detection in images and establishment of the dataset for dish classification.
-    - detail: Established a image database with more than 1000 kinds of Chinese dishes.
-    - detail: Implemented a method for dish detection based on faster-RCNN.
-
-- project: Autonomous Mobile Robot
-  role: Head of the Development Group & Primary Developer
-  duration: Sep, 2015 &mdash; Jul, 2016
-  description:
-    - detail: Research on self-tracking wheeled mobile robot with multisensor.
-    - detail: Responsible for the algorithm development of navigation, localization and mapping.
-    - detail: Builded up a wheeled mobile robot and applyed ROS (robot operating system) on the robot.
-    - detail: Deployed Gmapping, AMCL(Adaptive Monte Carlo Localization) and move_base etc. modules in ROS.
-    - detail: Developed a visual SLAM program based on RGBD data.
+  media: //player.youku.com/player.php/sid/XNDAwMTIyNjAwOA==/v.swf
