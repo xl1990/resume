@@ -1,6 +1,6 @@
-# Lijun Zhang Resume
+# Xiao Liu Resume
 
-![img](images/screenshot.png)
+![img](images/me.png)
 
 ## Description
 
