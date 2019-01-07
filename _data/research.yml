@@ -1,31 +1,31 @@
 # Researches
-- title: Binocular Stereo Matching
-  leader: Directed by Prof. Jianwei Lu, Tongji University
-  duration: Sep, 2016 &mdash; Jul, 2018
-  details:
-    - detail: Research on stereo matching methods on binocular images.
-    - detail: Proposed a siamese convolutional neural network architecture named MC-DCNN for stereo matching
-    - detail: Using dilated convolution and multi-scale feature fusion to enhance the network
-    - detail: Proposed a new method for disparity map refinement.
-    - detail: Paper "MC-DCNN&#58; Dilated Convolutional Neural Network for Computing Stereo Matching Cost" published in ICONIP 2017
-
-- title: Parking Slot Detection for Driveless Vehicles
-  leader: Directed by Prof. Lin Zhang
-  duration: Jul, 2016 &mdash; Nov,2016
-  details:
-    - detail: Research on automatically detect various parking-slot types in different environments.
-    - detail: Synthesize surround-view images from four low-cost fisheye cameras.
-    - detail: Trained a marking-point detector based on ACF (Aggregate Channel Features) + Boosting Decision Trees
-    - detail: Proposed checking-rules for determining the entrance-line and orientation of the parking-slot
-    - detail: Paper "Vision-Based Parking-Slot Detection&#58; A Benchmark and A Learning-Based Approach" published in ICME2017
-  # media: //player.youku.com/player.php/sid/XMzY4MTY4NzE2OA==/v.swf
-
 - title: Environment Perception for Unmanned Vehicle
   leader: Directed by Prof. Lin Zhang
   duration: May, 2018 &mdash; Prensent
   details: 
-    - detail: Research on how to deal with the information obtained from mutiple sensors on vehicle.
-    - detail: Set up a vehicle platform with kinds of sensors, including image sensors, Lidar, IMU, etc.
-    - detail: Establish a large-scale benchmark dataset, in which multiple sensor data are collected synchronously. (On-going)
-    - detail: Develop SLAM(simultaneous localization and mapping) module on the vehicle. (On-going)
-    - detail: Develop luminance adjustment and on-line compensation for surround-view images registration. (On-going)
+    - detail: Researched on system construction and algorithm design in environment perception for unmanned vehicle, including hardware building, parameter calibration, SLAM, object detection and tracking.
+    - detail: Developed a fast and accurate intrinsic and extrinsic calibration method with Bundle Adjustment for multiple fisheye cameras in Advanced Driver Assistance Systems (ADAS).
+    - detail:  Proposed an online compensation method for bird-view image registration to minimize photometric error of four bird-view images overlap. (On-going)
+
+- title: Pulmonary Nodule Classification
+  leader: Directed by Prof. Jianwei Lu
+  duration: Sep, 2017 &mdash; Oct,2018
+  details:
+    - detail: Researched on classifying the malignancy of the pulmonary nodules based on deep learning.
+    - detail: Proposed a 3D spatial pyramid dilated convolution network to classify pulmonary nodules’ malignancy.
+    - detail: Introduced 3D dilated convolution into the network to learn the detailed characteristic information of the pulmonary nodules and concatenated multiple features extracted by different dilated convolutions with different receptive fields.
+    - detail: Paper "3D Spatial Pyramid Dilated Network for Pulmonary Nodule Classification" published in Symmetry 2018
+  # media: //player.youku.com/player.php/sid/XMzY4MTY4NzE2OA==/v.swf
+ 
+- title: Binocular Stereo Matching
+  leader: Directed by Prof. Jianwei Lu, Tongji University
+  duration: Sep, 2016 &mdash; Jul, 2018
+  details:
+    - detail: Researched on binocular stereo matching algorithm based on deep learning.
+    - detail: Proposed a new convolutional neural network architecture MC-DCNN for stereo matching.
+    - detail: Introduced dilated convolution and multi-scale feature fusion into the network architecture.
+    - detail: Proposed a new method for disparity map refinement.
+    - detail: Paper "MC-DCNN&#58; Dilated Convolutional Neural Network for Computing Stereo Matching Cost" published in ICONIP 2017
+
+
+
