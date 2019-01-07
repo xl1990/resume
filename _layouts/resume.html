@@ -159,6 +159,12 @@
               {% endfor %}
             </ul>
           </p>
+          {% if project.media %}
+          <p class="resume-item-copy">
+            <embed src="{{ project.media }}" alt="Video loading failure! Try Chrome please." width="640" height="480" allowFullScreen="true" align="middle" type="application/x-shockwave-flash">
+            </embed>
+          </p>
+          {% endif %}
         </div>
         {% endfor %}
 
