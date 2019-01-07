@@ -5,17 +5,7 @@
   details: 
     - detail: Researched on system construction and algorithm design in environment perception for unmanned vehicle, including hardware building, parameter calibration, SLAM, object detection and tracking.
     - detail: Developed a fast and accurate intrinsic and extrinsic calibration method with Bundle Adjustment for multiple fisheye cameras in Advanced Driver Assistance Systems (ADAS).
-    - detail:  Proposed an online compensation method for bird-view image registration to minimize photometric error of four bird-view images overlap. (On-going)
-
-- title: Pulmonary Nodule Classification
-  leader: Directed by Prof. Jianwei Lu
-  duration: Sep, 2017 &mdash; Oct,2018
-  details:
-    - detail: Researched on classifying the malignancy of the pulmonary nodules based on deep learning.
-    - detail: Proposed a 3D spatial pyramid dilated convolution network to classify pulmonary nodules’ malignancy.
-    - detail: Introduced 3D dilated convolution into the network to learn the detailed characteristic information of the pulmonary nodules and concatenated multiple features extracted by different dilated convolutions with different receptive fields.
-    - detail: Paper "3D Spatial Pyramid Dilated Network for Pulmonary Nodule Classification" published in Symmetry 2018
-  # media: //player.youku.com/player.php/sid/XMzY4MTY4NzE2OA==/v.swf
+    - detail: Proposed an online compensation method for bird-view image registration to minimize photometric error of four bird-view images overlap. (On-going)
  
 - title: Binocular Stereo Matching
   leader: Directed by Prof. Jianwei Lu, Tongji University
@@ -26,6 +16,16 @@
     - detail: Introduced dilated convolution and multi-scale feature fusion into the network architecture.
     - detail: Proposed a new method for disparity map refinement.
     - detail: Paper "MC-DCNN&#58; Dilated Convolutional Neural Network for Computing Stereo Matching Cost" published in ICONIP 2017
+
+- title: Pulmonary Nodule Classification
+  leader: Directed by Prof. Jianwei Lu
+  duration: Sep, 2017 &mdash; Oct,2018
+  details:
+    - detail: Researched on classifying the malignancy of the pulmonary nodules based on deep learning.
+    - detail: Proposed a 3D spatial pyramid dilated convolution network to classify pulmonary nodules’ malignancy.
+    - detail: Introduced 3D dilated convolution into the network to learn the detailed characteristic information of the pulmonary nodules and concatenated multiple features extracted by different dilated convolutions with different receptive fields.
+    - detail: Paper "3D Spatial Pyramid Dilated Network for Pulmonary Nodule Classification" published in Symmetry 2018
+  # media: //player.youku.com/player.php/sid/XMzY4MTY4NzE2OA==/v.swf
 
 
 
