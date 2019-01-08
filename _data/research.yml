@@ -6,7 +6,11 @@
     - detail: Researched on system construction and algorithm design in environment perception for unmanned vehicle, including hardware building, parameter calibration, SLAM, object detection and tracking.
     - detail: Developed a fast and accurate intrinsic and extrinsic calibration method with Bundle Adjustment for multiple fisheye cameras in Advanced Driver Assistance Systems (ADAS).
     - detail: Proposed an online compensation method for bird-view image registration to minimize photometric error of four bird-view images overlap. (On-going)
- 
+  image: images/surround-view.png
+  description: images/surround-view.png
+  image2: images/online.png
+  description2: images/online.png
+
 - title: Binocular Stereo Matching
   leader: Directed by Prof. Jianwei Lu, Tongji University
   duration: Sep, 2016 &mdash; Jul, 2018
