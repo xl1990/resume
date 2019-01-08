@@ -5,19 +5,21 @@
   #image: images/publication2.png
   #description: (a)&sim;(d) are four face images. Their illumination quality scores predicted by our approach FIIQA are 0.0, 0.503, 0.670, and 1.0, respectively. From 0 to 1, the illumation quality of face images are from low to high. 
 
+- title: Guokai Zhang, Xiao Liu, Dandan Zhu, et al, 3D Spatial Pyramid Dilated Network for Pulmonary Nodule Classification, in Symmetry, 2018, vol. 10, no. 9, pp. 376, 1-16, 2018.
+  link: //www.mdpi.com/2073-8994/10/9/376
 
-- title: Image Exposure Assessment&#58; A Benchmark and A Deep Convolutional Neural Networks Based Model
+
+- title: Lijun Zhang, Lin Zhang*, Xiao Liu, Ying Shen, and Dongqing Wang, Image exposure assessment&#58; A benchmark and a deep convolutional neural networks based model, in Proc. ICME, 2018.
   # author: Lijun Zhang, Lin Zhang*, Xiao Liu, ect, in Proc. ICME, 2018.
   link: //sse.tongji.edu.cn/linzhang/files/icme18IELA.pdf
   # image: images/publication1.png
   # description: (a)&sim;(f) are 6 images with various exposure levels. Their exposure scores predicted by our approach IEpsM are 1.0115, 2.0219, 2.9686, 4.1119, 5.2048, and 6.3953, respectively. The output range of IEpsM is from 1 to 7. “1” means the image is extremely underexposed, “4” means it is properly exposed, and “7” means it is extremely overexposed.
 
 
-- title: Vision-based parking-slot detection&#58; A benchmark and a learning-based approach
-  # author: Linshen Li, Lin Zhang, Xiyuan Li, Xiao Liu, Ying Shen , ect, in Proc. ICME, 2017.
-  link: //sse.tongji.edu.cn/linzhang/files/icme17PS.pdf
-  #image: images/publication1.png
-  #description: (a)&sim;(f) are 6 images with various exposure levels. Their exposure scores predicted by our approach IEpsM are 1.0115, 2.0219, 2.9686, 4.1119, 5.2048, and 6.3953, respectively. The output range of IEpsM is from 1 to 7. “1” means the image is extremely underexposed, “4” means it is properly exposed, and “7” means it is extremely overexposed.
 
-- title: No reference Quality Assessment Algorithm for Image Exposure Based on Neural Network (Patent)
+- title: Lin Zhang, Lijun Zhang, Xiao Liu, and Ying Shen, No reference quality assessment algorithm for image exposure based on neural network (Patent), announced by The Patent Office of the People's Republic of China.
   # author: Lin Zhang, Lijun Zhang, Xiao Liu, and Ying Shen, accepted by The Patent Office of the People's Republic of China.
+
+- title: Bin Wu, Liechuan Ou, and Xiao Liu, Dish detection method (Patent), announced by The Patent Office of the People's Republic of China.
+
+- title: Bin Wu, Liechuan Ou, and Xiao Liu, Dish identification method (Patent), announced by The Patent Office of the People's Republic of China.
