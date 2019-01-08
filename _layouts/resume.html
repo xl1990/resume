@@ -64,7 +64,7 @@
             <ul class="resume-item-list">
               <li>Overall GPA: {{ education.OverallG }} &bull; Average Score: {{ education.AverageG }} {% if education.Rank %}&bull; Rank: {{ education.Rank }}{% endif %}</li>
               {% if education.T %}<li>TOEFL: {{ education.T }} &bull; GRE: {{ education.G }}</li>{% endif %}
-              <li>Related Courses: {{ education.Courses }}</li>
+              {% if education.Courses %}<li>Related Courses: {{ education.Courses }}</li>{% endif %}
             </ul>
           </p>
 
