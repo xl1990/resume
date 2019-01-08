@@ -103,7 +103,7 @@
 
           {% if research.image %}
           <p class="resume-item-copy">
-            <img src="{{ research.image }}" alt="{{ research.title }}" width="480" height="400">
+            <img src="{{ research.image }}" alt="{{ research.title }}" >
           </p>
           {% endif %}
           {% if research.description %}
@@ -118,11 +118,6 @@
           {% if research.description2 %}
           <p class="resume-item-copy">{{ research.description2 }}</p>
           {% endif %}
-<!--           {% for image in site.data.research research.image %}
-          <p class="resume-item-copy">
-            <img src="{{ research.image }}" alt="{{ research.title }}" width="480" height="400">
-          </p>
-          {% endfor %} -->
         </div><!-- end of resume-item -->
         {% endfor %}
 
