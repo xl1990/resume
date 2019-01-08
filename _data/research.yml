@@ -7,7 +7,7 @@
     - detail: Developed a fast and accurate intrinsic and extrinsic calibration method with Bundle Adjustment for multiple fisheye cameras in Advanced Driver Assistance Systems (ADAS).
     - detail: Proposed an online compensation method for bird-view image registration to minimize photometric error of four bird-view images overlap. (On-going)
   image: images/surround-view.png
-  description: Flow chart of surround-view stitching. The surround view system is consisted of for fisheye cameras. The algorithm will firstly optimize the camera poses with Bundle Adjustment according to the loop closure constraint of the cameras, then automatically set up ground coordinate system. After that, the mapping table will be generated for final surround-view image stitching based on camera-ground relationship.
+  description: Flow chart of surround-view stitching. The surround view system is consisted of four fisheye cameras. The algorithm will firstly optimize the camera poses with Bundle Adjustment according to the loop closure constraint of the cameras, then automatically set up ground coordinate system. After that, the mapping table will be generated for final surround-view image stitching based on camera-ground relationship.
   image2: images/online.png
   description2: Flow chart of online compensation. Online compensation is to solve the problem of camera pose drifting when the vehicle is moving. The algorithm will update the camera poses in real time by minimizing the photometric error between ground projections from adjacent cameras. For each camera, an overall photometric coefficients are also added  into the energy function to soften the boundary between adjacent views.
 
