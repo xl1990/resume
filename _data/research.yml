@@ -20,10 +20,12 @@
     - detail: Introduced dilated convolution and multi-scale feature fusion into the network architecture.
     - detail: Proposed a new method for disparity map refinement.
     - detail: Paper "MC-DCNN&#58; Dilated Convolutional Neural Network for Computing Stereo Matching Cost" published in ICONIP 2017
-  image: images/stereo-matching.png
-  description:  firstly optimize the camera poses with Bundle Adjustment 
+  image: images/mc-dcnn.png
+  description:  Architecture of MC-DCNN.
+  image2: images/stereo-matching.png
+  description2:  (a) and (b) are the left and right image captured by stereo camera. (c) is the final result of our algorithm. (d)~(f) are disparity maps in different phase of our algorithm, while the lower of them are matching cost in different disparity of a row of pixel. (d) WTA (e) CBCA (f) SGM
 
-  
+
 - title: Pulmonary Nodule Classification
   leader: Directed by Prof. Jianwei Lu
   duration: Sep, 2017 &mdash; Oct,2018
