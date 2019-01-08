@@ -26,7 +26,7 @@
   size: 480
   description:  Architecture of MC-DCNN.
   image2: images/stereo-matching.png
-  size2: 480
+  size2: 640
   description2:  (a) and (b) are the left and right image captured by stereo camera. (c) is the final result of our algorithm. (d)~(f) are disparity maps in different phase of our algorithm, while the lower of them are matching cost in different disparity of a row of pixel. (d) WTA (e) CBCA (f) SGM
 
 
