@@ -14,9 +14,19 @@
   # image: images/publication1.png
   # description: (a)&sim;(f) are 6 images with various exposure levels. Their exposure scores predicted by our approach IEpsM are 1.0115, 2.0219, 2.9686, 4.1119, 5.2048, and 6.3953, respectively. The output range of IEpsM is from 1 to 7. “1” means the image is extremely underexposed, “4” means it is properly exposed, and “7” means it is extremely overexposed.
 
+- title: Xuan Shao, Xiao Liu*, and Lin Zhang*, Revisit Surround-view Camera System Calibration, accepted by ICME 2019.
+
+- title: Yingyi Zhang, Lin Zhang* and Xiao Liu, Pay by Showing Your Palm: A Study of Palmprint Verification on Mobile Platforms, accepted by ICME 2019.
+
+- title: Lijun Zhang, Lin Zhang* and Xiao Liu, Zero-Shot Restoration of Back-lit Images Using Deep Internal Learning, submitted to MM 2019.
+
+- title: Xining Zhu, Lijun Zhang, Xiao Liu, et al, GMGAN: Single Image Super-Resolution in Gradient Map Space, submitted to ICIP 2019.
+
 - title: Lin Zhang, Lijun Zhang, Xiao Liu, and Ying Shen, No reference quality assessment algorithm for image exposure based on neural network (Patent), announced by The Patent Office of the People's Republic of China.
   # author: Lin Zhang, Lijun Zhang, Xiao Liu, and Ying Shen, accepted by The Patent Office of the People's Republic of China.
 
 - title: Bin Wu, Liechuan Ou, and Xiao Liu, Dish detection method (Patent), announced by The Patent Office of the People's Republic of China.
 
 - title: Bin Wu, Liechuan Ou, and Xiao Liu, Dish identification method (Patent), announced by The Patent Office of the People's Republic of China.
+
+- title: Lin Zhang, Linshen Li, Xiyuan Li, Xiao Liu, Ying Shen, Yanling Xu, Parking lot detection method (Patent), announced by The Patent Office of the People's Republic of China.
