@@ -14,17 +14,17 @@ resume_name:                    "Xiao Liu"
 resume_title:                   "PHD Applicant Resume"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "xiaoliu1990@hotmail.com"
+resume_contact_email:           "xiaoliu1990@cs.umass.edu"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "+86-15216717506"
-resume_contact_address:         "4800 Cao’an Road, Tongji University, Shanghai, China"
+resume_contact_telephone:       "+1-4132753041"
+resume_contact_address:         "College of Information and Computer Sciences, University of Massachusetts Amherst"
 
-resume_header_contact_info:     "4800 Cao’an Road, Tongji University, Shanghai, China • +86-15216717506 • xiaoliu1990@hotmail.com"
+resume_header_contact_info:     "College of Information and Computer Sciences, University of Massachusetts Amherst • +1-4132753041 • xiaoliu1990@cs.umass.edu"
 display_header_contact_info:    "true"
 
-resume_header_intro1: "<p>I am a graduate student in School of Software Engneering, Tongji University, supervised by professor"
-resume_header_intro2: "who is the leader of iLab in Tongji. In the postgraduate stage, my research interests are Machine Learning, Computer Vision, and Robotics. I hope to continue my study abroad and thus I am looking for PHD position of 2019 fall. Looking forward to your contacting!</p>"
+resume_header_intro1: "<p>I am a first-year master student in College of Information and Computer Sciences at the University of Massachusetts Amherst. And I have got a Master degree in School of Software Engneering, Tongji University, supervised by professor"
+resume_header_intro2: "who is the leader of iLab in Tongji. In the postgraduate stage, my research interests are Computer Vision and Machine Learning. I hope to continue my study and thus I am planning to apply for a PHD position of 2020 fall in UMass. Looking forward to your contacting!</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
