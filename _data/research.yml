@@ -13,7 +13,7 @@
   size2: 720
   description2: Flow chart of online compensation. Online compensation is to solve the problem of camera pose drifting when the vehicle is moving. The algorithm will update the camera poses in real time by minimizing the photometric error between ground projections from adjacent cameras. For each camera, an overall photometric coefficients are also added  into the energy function to soften the boundary between adjacent views. The following video is the result of our algorithm.
   media: //player.youku.com/embed/XNDA5NDM1NTM2MA==
-  media2: //player.youku.com/embed/XMzg5MTU3MjA3Ng==
+  media2: //player.youku.com/embed/XNDQzNTY1NDQ4NA==
 
 - title: Binocular Stereo Matching
   leader: Directed by Prof. Jianwei Lu, Tongji University
