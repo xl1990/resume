@@ -75,6 +75,34 @@
       <!-- end Education -->
       {% endif %}
 
+      {% if site.resume_section_publications %}
+      <!-- begin Publications -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Publications</h2>
+        </header>
+
+        {% for publication in site.data.publications %}
+        <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+          <h3 style="line-height:20px;" class="resume-item-details" itemprop="name">{% if publication.link %}<a href="{{ publication.link }}" itemprop="url">{{ publication.title }}</a>{% else %}{{ publication.title }}{% endif %}</h3>
+          <!-- <h4 style="line-height:20px;" class="resume-item-details" itemprop="description">{{ publication.author }}</h4> -->
+          
+          {% if publication.image %}
+          <p class="resume-item-copy">
+            <img src="{{ publication.image }}" alt="{{ publication.title }}" width="580" height="400">
+          </p>
+          {% endif %}
+          {% if publication.description %}
+          <p class="resume-item-copy">{{ publication.description }}</p>
+          {% endif %}
+        </div><!-- end of resume-item -->
+        {% endfor %}
+
+      </section>
+      <!-- end Publications -->
+      {% endif %}
+
       {% if site.resume_section_research %}
       <!-- begin Research -->
       <section class="content-section">
@@ -132,33 +160,7 @@
       <!-- end Research -->
       {% endif %}
 
-      {% if site.resume_section_publications %}
-      <!-- begin Publications -->
-      <section class="content-section">
-
-        <header class="section-header">
-          <h2>Publications</h2>
-        </header>
-
-        {% for publication in site.data.publications %}
-        <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
-          <h3 style="line-height:20px;" class="resume-item-details" itemprop="name">{% if publication.link %}<a href="{{ publication.link }}" itemprop="url">{{ publication.title }}</a>{% else %}{{ publication.title }}{% endif %}</h3>
-          <!-- <h4 style="line-height:20px;" class="resume-item-details" itemprop="description">{{ publication.author }}</h4> -->
-          
-          {% if publication.image %}
-          <p class="resume-item-copy">
-            <img src="{{ publication.image }}" alt="{{ publication.title }}" width="580" height="400">
-          </p>
-          {% endif %}
-          {% if publication.description %}
-          <p class="resume-item-copy">{{ publication.description }}</p>
-          {% endif %}
-        </div><!-- end of resume-item -->
-        {% endfor %}
-
-      </section>
-      <!-- end Publications -->
-      {% endif %}
+      
 
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
